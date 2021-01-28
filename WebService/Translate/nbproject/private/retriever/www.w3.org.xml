@@ -1,0 +1,463 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<!-- Generated from data/head-home.php, ../../smarty/{head.tpl} -->
+<head>
+<title>World Wide Web Consortium (W3C)</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="Help" href="/Help/" />
+<link rel="stylesheet" href="/2008/site/css/minimum" type="text/css" media="all" />
+<style type="text/css" media="print, screen and (min-width: 481px)">
+/*<![CDATA[*/
+@import url("/2008/site/css/advanced");
+/*]]>*/
+</style>
+<link href="/2008/site/css/minimum" rel="stylesheet" type="text/css" media="only screen and (max-width: 480px)" />
+<meta name="viewport" content="width=device-width" />
+<link rel="stylesheet" href="/2008/site/css/print" type="text/css" media="print" />
+<link rel="shortcut icon" href="/2008/site/images/favicon.ico" type="image/x-icon" />
+<meta name="description" content="The World Wide Web Consortium (W3C) is an international community where Member organizations, a full-time staff, and the public work together to develop Web standards." />
+<link rel="alternate" type="application/atom+xml" title="W3C News" href="/blog/news/feed/atom" />
+</head>
+<body id="www-w3-org" class="w3c_public w3c_home">
+<div id="w3c_container">
+<!-- Generated from data/mast-home.php, ../../smarty/{mast.tpl} -->
+<div id="w3c_mast"><!-- #w3c_mast / Page top header -->
+<h1 class="logo"><a tabindex="2" accesskey="1" href="/"><img src="/2008/site/images/logo-w3c-mobile-lg" width="90" height="53" alt="W3C" /></a> <span class="alt-logo">W3C</span></h1>
+<div id="w3c_nav">
+<form action="https://www.w3.org/Help/search" method="get" enctype="application/x-www-form-urlencoded">
+<!-- w3c_sec_nav is populated through js -->
+<div class="w3c_sec_nav"><!-- --></div>
+<ul class="main_nav"><!-- Main navigation menu -->
+<li class="first-item"><a href="/standards/">Standards</a></li>
+<li><a href="/participate/">Participate</a></li>
+<li><a href="/Consortium/membership">Membership</a></li>
+<li class="last-item"><a href="/Consortium/">About W3C</a></li>
+<li class="search-item">
+<div id="search-form"><input tabindex="3" class="text" name="q" value="" title="Search" /> <button id="search-submit" name="search-submit" type="submit"><img class="submit" src="/2008/site/images/search-button" alt="Search" width="21" height="17" /></button></div>
+</li>
+</ul>
+</form>
+</div>
+</div>
+<!-- /end #w3c_mast -->
+<div id="w3c_main">
+<div id="w3c_logo_shadow" class="w3c_leftCol"><img height="32" alt="" src="/2008/site/images/logo-shadow" /></div>
+<div class="w3c_leftCol">
+<h2 class="offscreen">Site Navigation</h2>
+<h3 class="category tMargin"><span class="ribbon"><a href="Consortium/mission.html#principles">Web for All <img src="/2008/site/images/header-link.gif" alt="Header link" width="13" height="13" class="header-link" /></a></span></h3>
+<ul class="theme">
+<li><a href="/WAI/">Accessibility</a></li>
+<li><a href="/International/">Internationalization</a></li>
+<li><a href="Security/">Web Security</a></li>
+<li><a href="Privacy/">Privacy</a></li>
+</ul>
+<h3 class="category tMargin"><span class="ribbon"><a href="standards/">Web and Industry <img src="/2008/site/images/header-link.gif" alt="Header link" width="13" height="13" class="header-link" /></a></span></h3>
+<ul class="theme">
+<li><a href="auto/">Automotive and Transportation</a></li>
+<li><a href="tv/">Entertainment (TV and Broadcasting)</a></li>
+<li><a href="publishing/">Publishing</a></li>
+<li><a href="Payments/">Web Payments</a></li>
+<li><a href="2013/data/">Web of Data</a></li>
+<li><a href="Telco/">Web and Telecommunications</a></li>
+<li><a href="WoT/">Web of Things</a></li>
+</ul>
+<h3 class="category tMargin"><span class="ribbon"><a href="/groups/">W3C Work Groups <img src="/2008/site/images/header-link.gif" alt="Header link" width="13" height="13" class="header-link" /></a></span></h3>
+<ul class="theme">
+<li><a href="/Consortium/cepc/">Code of Ethics and Professional
+Conduct</a></li>
+<li><a href="/Guide/">Participant guidebook</a></li>
+<li><a href="/community/groups/">W3C Community Groups</a></li>
+<li><a href="/Help/Account/">Get a W3C Account</a></li>
+</ul>
+<h3 class="category tMargin"><span class="ribbon"><a href="participate/">Dev Resources <img src="/2008/site/images/header-link.gif" alt="Header link" width="13" height="13" class="header-link" /></a></span></h3>
+<ul class="theme">
+<li><a title="W3C Developer Avenue" href="/developers/"><img src="/2015/10/W3C-Developers_Assets/W3C-Developers-Dark.png" width="150" alt="W3C Developers" title="W3C Developer Avenue" /></a></li>
+<li><a title="W3C API" href="/api/">API<img src="/2020/07/w3c-api.png" width="60" alt="API" title="W3C API" style="vertical-align:middle;" /></a></li>
+<li><a href="https://validator.w3.org/">Validators</a></li>
+<li><a href="https://www.w3.org/2009/cheatsheet/">W3C
+cheatsheet</a></li>
+<li><a href="Status.html">More Open Source Software</a></li>
+<li><a title="Open Web Platform testing" href="https://web-platform-tests.org/">Web Platform Tests</a></li>
+<li><a title="MOOCs from W3C on edX" href="https://www.edx.org/school/w3cx">W3Cx (Training)</a></li>
+</ul>
+</div>
+<div class="w3c_mainCol">
+<div id="w3c_crumbs">
+<div id="w3c_crumbs_frame">
+<p class="bct"><span class="skip"><a tabindex="1" accesskey="2" title="Skip to content (e.g., when browsing via audio)" href="#w3c_most-recently">Skip</a></span></p>
+<br /></div>
+</div>
+<div class="line">
+<div class="unit size2on3">
+<div class="main-content">
+<h2 class="offscreen">News</h2>
+<div id="w3c_slideshow"><div id="w3c_most-recently" class="intro hierarchy vevent_list">
+   <div class="event w3c_topstory expand_block">
+      <div class="headline">
+         <h3 class="h4 tPadding0 bPadding0 summary">
+            <span class="expand_section">W3C Advisory Committee Elects Technical Architecture Group</span>
+         </h3>
+         <p class="date">
+            <span class="dtstart published" title="2021-01-07T11:27:24Z"> 7 January 2021 </span> | <a title="Archive: W3C Advisory Committee Elects Technical Architecture Group" href="https://www.w3.org/blog/news/archives/8846">Archive</a>
+         </p>
+      </div>
+      <div class="description expand_description"><p><a class="imageLink" href="https://www.w3.org/2001/tag/"><img loading="lazy" src="https://www.w3.org/blog/news/files/2017/12/w3c-tag-300x300.jpg" alt="W3C TAG logo" width="80" height="80" /></a>The W3C Advisory Committee has <a href="https://www.w3.org/2020/12/07-tag-nominations">elected</a> the following people to the W3C Technical Architecture Group (TAG): Amy Guy (Digital Bazaar), Sangwhan Moon (W3C Invited Expert), Theresa O&#x2019;Connor (Apple, Inc.) and Lea Verou (W3C Invited Expert). They join co-Chair Tim Berners-Lee and continuing participants, Daniel Appelquist (Samsung Electronics; co-Chair), Rossen Atanassov (Microsoft Corporation), Hadley Beeman (W3C Invited Expert), Kenneth Rohde Christiansen (Intel Corporation) and Peter Linss (W3C Invited Expert; co-Chair). Yves Lafon continues as staff contact. Many thanks for contributions to the TAG to the departing participants, David Baron (W3C Invited Expert) and Alice Boxhall (Google), whose terms end at the end of this month. </p>
+<p>The TAG is a special group within the W3C, chartered under the <a href="https://www.w3.org/Consortium/Process/#TAG">W3C Process Document</a>, with stewardship of the Web architecture. The mission of the TAG is to build consensus around principles of Web architecture and to interpret and clarify these principles when necessary, to resolve issues involving general Web architecture brought to the TAG, and to help coordinate cross-technology architecture developments inside and outside W3C. The elected Members of the TAG participate as individual contributors, not as representatives of their organizations. TAG participants use their best judgment to find the best solutions for the Web, not just for any particular network, technology, vendor, or user. Learn more about the <a href="https://www.w3.org/2001/tag/">TAG</a>.</p>
+</div>
+   </div>
+   <div class="event closed expand_block">
+      <div class="headline">
+         <h3 class="h4 tPadding0 bPadding0 summary">
+            <span class="expand_section">Interest Group Note: The Responsible Use of Spatial Data</span>
+         </h3>
+         <p class="date">
+            <span class="dtstart published" title="2021-01-19T08:14:30Z"> 19 January 2021 </span> | <a title="Archive: Interest Group Note: The Responsible Use of Spatial Data" href="https://www.w3.org/blog/news/archives/8873">Archive</a>
+         </p>
+      </div>
+      <div class="description expand_description"><p>The <a href="https://www.w3.org/2017/sdwig/">Spatial Data on the Web Interest Group</a> has published a Group Note of <a href="https://www.w3.org/TR/2021/NOTE-responsible-use-spatial-20210119/">The Responsible Use of Spatial Data</a>. This note highlights some of the unique characteristics of <a href="https://www.w3.org/TR/sdw-bp/#spatialdata">spatial data</a> within the broader realm of ethical use of data. A brief analysis of the relationship between law and ethics explains that responsible use is not mandatory. Nevertheless, both legal and ethical frameworks play an important role in shaping what can be considered &#x201C;responsible&#x201D;. As do the perspectives of those who interact closely with <a href="https://www.w3.org/TR/sdw-bp/#spatialdata">spatial data</a>: the developers, the users and the regulators. Therefore this note not only provides an insight into the relevant legislation and ethics guidelines, but also considers the principles of ethical data sharing from each of these three perspectives. The principles are made practical by providing concrete communication guidelines and showing examples of good practice.</p>
+</div>
+   </div>
+   <div class="event closed expand_block">
+      <div class="headline">
+         <h3 class="h4 tPadding0 bPadding0 summary">
+            <span class="expand_section">First Public Working Draft: CSS Cascading and Inheritance Level 5</span>
+         </h3>
+         <p class="date">
+            <span class="dtstart published" title="2021-01-19T07:58:16Z"> 19 January 2021 </span> | <a title="Archive: First Public Working Draft: CSS Cascading and Inheritance Level 5" href="https://www.w3.org/blog/news/archives/8870">Archive</a>
+         </p>
+      </div>
+      <div class="description expand_description"><p>The <a href="https://www.w3.org/Style/CSS/">CSS Working Group</a> has published a First Public Working Draft of <a href="https://www.w3.org/TR/2021/WD-css-cascade-5-20210119/">CSS Cascading and Inheritance Level 5</a>. This CSS module describes how to collate style rules and assign values to all properties on all elements. By way of cascading and inheritance, values are propagated for all properties on all elements. New in this level is <a href="https://www.w3.org/TR/2021/WD-css-cascade-5-20210119/#cascade-layers">cascade layers</a>.</p>
+</div>
+   </div>
+   <div class="event closed expand_block">
+      <div class="headline">
+         <h3 class="h4 tPadding0 bPadding0 summary">
+            <span class="expand_section">Updated Candidate Recommendation: Web Audio API</span>
+         </h3>
+         <p class="date">
+            <span class="dtstart published" title="2021-01-14T08:05:52Z"> 14 January 2021 </span> | <a title="Archive: Updated Candidate Recommendation: Web Audio API" href="https://www.w3.org/blog/news/archives/8867">Archive</a>
+         </p>
+      </div>
+      <div class="description expand_description"><p>The <a href="https://www.w3.org/2011/audio/">Audio Working Group</a> invites implementation of an updated Candidate Recommendation of <a href="https://www.w3.org/TR/2021/CR-webaudio-20210114/">Web Audio API</a>. This specification describes a high-level Web API for processing and synthesizing audio in web applications. The primary paradigm is of an audio routing graph, where a number of <a href="https://www.w3.org/TR/2021/CR-webaudio-20210114/#audionode">AudioNode</a> objects are connected together to define the overall audio rendering. The actual processing will primarily take place in the underlying implementation (typically optimized Assembly / C / C++ code), but <a href="https://www.w3.org/TR/2021/CR-webaudio-20210114/#audioworklet">direct script processing and synthesis</a> is also supported.
+</p>
+<p>Comments are welcome by <strong>15 February 2021</strong>.</p>
+</div>
+   </div>
+   <div class="event closed expand_block">
+      <div class="headline">
+         <h3 class="h4 tPadding0 bPadding0 summary">
+            <span class="expand_section">First Public Working Drafts: EPUB 3.3</span>
+         </h3>
+         <p class="date">
+            <span class="dtstart published" title="2021-01-12T08:26:43Z"> 12 January 2021 </span> | <a title="Archive: First Public Working Drafts: EPUB 3.3" href="https://www.w3.org/blog/news/archives/8859">Archive</a>
+         </p>
+      </div>
+      <div class="description expand_description"><p>
+    The <a href="https://www.w3.org//publishing/groups/epub-wg/">EPUB 3 Working Group</a> has published four First Public Working Drafts today for EPUB 3.3. This technology defines a distribution and interchange format for digital publications and documents. The EPUB format provides a means of representing, packaging, and encoding structured and semantically enhanced Web content &#x2014; including HTML, CSS, SVG, and other resources &#x2014; for distribution in a single-file container.
+</p>
+<p>
+    The specification represents the third major revision and, in particular, a revision of the <a href="https://www.w3.org/publishing/epub32/epub-spec.html">EPUB&#xA0;3.2 document</a> published by the EPUB 3 Community Group. This new version of the specification is now on a W3C Recommendation Track.
+</p>
+<p>
+    The four documents published by the Working Group are:
+</p>
+<ul class="show_items">
+<li>
+        The <a href="https://www.w3.org/TR/2021/WD-epub-33-20210112/">EPUB 3.3</a> specification defines the authoring requirements for EPUB Publications and represents the third major revision of the standard.
+    </li>
+<li>
+        The <a href="https://www.w3.org/TR/2021/WD-epub-rs-33-20210112/">EPUB 3.3 Reading Systems</a> specification defines the conformance requirements for EPUB 3 Reading Systems &#x2014; the user agents that render EPUB Publications.
+    </li>
+<li>
+        The <a href="https://www.w3.org/TR/2021/NOTE-epub-multi-rend-11-20210112/">EPUB Multiple-Rendition Publications&#xA0;1.1</a> specification defines the creation and rendering of EPUB Publications consisting of more than one Rendition. This document is not on recommendation track.
+    </li>
+<li>
+        The <a href="https://www.w3.org/TR/2021/NOTE-epub-overview-33-20210112/">EPUB 3 Overview</a> gives a high level overview of the EPUB&#xA0;3.3 specification aimed primarily at non-technical readers. This document is not on recommendation track.
+    </li>
+</ul>
+<p>
+    The Working Group welcomes comments via the <a href="https://github.com/w3c/epub-specs/issues/">GitHub repository issues</a>.</p>
+</div>
+   </div>
+   <div class="event closed expand_block">
+      <div class="headline">
+         <h3 class="h4 tPadding0 bPadding0 summary">
+            <span class="expand_section">Upcoming: W3C Workshop on Wide Color Gamut and High Dynamic Range for the Web</span>
+         </h3>
+         <p class="date">
+            <span class="dtstart published" title="2020-12-23T09:40:32Z"> 23 December 2020 </span> | <a title="Archive: Upcoming: W3C Workshop on Wide Color Gamut and High Dynamic Range for the Web" href="https://www.w3.org/blog/news/archives/8838">Archive</a>
+         </p>
+      </div>
+      <div class="description expand_description"><p><a class="imageLink" href="https://www.w3.org/Graphics/Color/Workshop/"><img src="https://www.w3.org/Graphics/Color/Workshop/media/UCS-rec2020-ws.svg" alt="chromaticity diagram of wide color gamut" width="210" /></a>
+    W3C announced today the
+    <a href="https://www.w3.org/Graphics/Color/Workshop/">W3C Workshop
+    on Wide Color Gamut (WCG) and High Dynamic Range (HDR)
+    for the Web</a>, which
+    is being organized as a virtual event in April-May 2021.
+</p>
+<p>The primary goal of the workshop is to bring together browser vendors,
+content creators, color scientists, and experts in other relevant areas
+(e.g. accessibility, scripting, security, web) to converge on technologies
+for enabling WCG and HDR on the Open Web Platform.
+</p>
+<p>The event will be organized as a combination of pre-recorded talks
+(expressions of interest are due <strong>30 January</strong>, with recorded talks to
+be submitted by <strong>15 March 2021</strong>) followed by online issue raising on GitHub,
+and culminating in a series of live sessions in
+April and May, organized around three main themes:
+</p>
+<ul class="show_items">
+<li>Wide Color Gamut on the Web</li>
+<li>High Dynamic Range on the Web</li>
+<li>WCG and HDR Standardization Landscape</li>
+</ul>
+<p>The event is free and open to anyone with relevant perspectives on the topic to register for the event. For more information on the workshop, please see the <a href="https://www.w3.org/Graphics/Color/Workshop/">workshop details and submission instructions</a>.
+</p>
+<p>Deadline to <a href="https://www.w3.org/Graphics/Color/Workshop/speakers.html">submit a proposal for a talk</a> is <strong>30 January 2021</strong>, and registration will
+be open from mid January until April.</p>
+</div>
+   </div>
+   <div class="event closed expand_block">
+      <div class="headline">
+         <h3 class="h4 tPadding0 bPadding0 summary">
+            <span class="expand_section">W3C Invites Implementations of CSS Text Module Level 3 and CSS Box Model Module Level 3</span>
+         </h3>
+         <p class="date">
+            <span class="dtstart published" title="2020-12-22T07:26:08Z"> 22 December 2020 </span> | <a title="Archive: W3C Invites Implementations of CSS Text Module Level 3 and CSS Box Model Module Level 3" href="https://www.w3.org/blog/news/archives/8826">Archive</a>
+         </p>
+      </div>
+      <div class="description expand_description"><p>The <a href="https://www.w3.org/Style/CSS/">CSS Working Group</a> invites implementations of two Candidate Recommendations:</p>
+<ul class="show_items">
+<li>
+<a href="https://www.w3.org/TR/2020/CR-css-text-3-20201222/">CSS Text Module Level 3</a> defines properties for text manipulation and specifies their processing model. It covers line breaking, justification and alignment, white space handling, and text transformation.
+</li>
+<li><a href="https://www.w3.org/TR/2020/CR-css-box-3-20201222/">CSS Box Model Module Level 3</a> describes the margin and padding properties, which create spacing in and around a CSS box.
+</li>
+</ul>
+<p>Comments are welcome by <strong>22 February 2021</strong>.</p>
+</div>
+   </div>
+   <div class="event closed expand_block">
+      <div class="headline">
+         <h3 class="h4 tPadding0 bPadding0 summary">
+            <span class="expand_section">W3C Invites Implementations of Web Authentication: An API for accessing Public Key Credentials Level 2</span>
+         </h3>
+         <p class="date">
+            <span class="dtstart published" title="2020-12-22T07:06:04Z"> 22 December 2020 </span> | <a title="Archive: W3C Invites Implementations of Web Authentication: An API for accessing Public Key Credentials Level 2" href="https://www.w3.org/blog/news/archives/8822">Archive</a>
+         </p>
+      </div>
+      <div class="description expand_description"><p><a class="imageLink" href="https://www.w3.org/Webauthn/"><img src="https://www.w3.org/2019/03/webauthn-color.png" alt="WebAuthn Logo" height="50" /></a>The <a href="https://www.w3.org/Webauthn/">Web Authentication Working Group</a> invites implementations of a Candidate Recommendation of <a href="https://www.w3.org/TR/2020/CR-webauthn-2-20201222/">Web Authentication: An API for accessing Public Key Credentials Level 2</a>. This specification defines an API enabling the creation and use of strong, attested, scoped, public key-based credentials by web applications, for the purpose of strongly authenticating users. Conceptually, one or more public key credentials, each scoped to a given WebAuthn Relying Party, are created by and bound to authenticators as requested by the web application. The user agent mediates access to authenticators and their public key credentials in order to preserve user privacy. Authenticators are responsible for ensuring that no operation is performed without user consent. Authenticators provide cryptographic proof of their properties to Relying Parties via attestation. This specification also describes the functional model for WebAuthn conformant authenticators, including their signature and attestation functionality.</p>
+<p>Comments are welcome by <strong>19 January 2021</strong>.</p>
+</div>
+   </div>
+</div></div>
+<p class="noprint"><span class="more-news"><a href="/blog/news/" title="More News">More news&#x2026;</a> <a title="RSS feed for W3C home page news" href="/blog/news/feed" class="feedlink"><img width="30" height="30" alt="RSS" src="/2008/site/images/icons/rss30" /></a> <a title="Atom feed for W3C home page news" href="/blog/news/feed/atom" class="feedlink"><img width="30" height="30" alt="Atom" src="/2008/site/images/icons/atom30" /></a></span></p>
+<div class="w3c_events_talks">
+<div class="line">
+<div class="unit size1on2">
+<div id="w3c_home_talks" class="w3c_upcoming_talks"><div>
+<h2 class="category">
+    <a title="More Talks&#x2026;" href="/Talks/">
+        Talks and Appearances <img src="/2008/site/images/header-link" alt="Header link" width="13" height="13" class="header-link" />
+    </a>
+</h2>
+
+<ul class="vevent_list">
+			
+<li class="vevent">
+  <p class="date single">
+    <span class="dtstart">
+	    <span class="year">2021</span><span class="mm-dd">-01-28</span>
+    </span>
+    <span class="paren">(</span><span class="dd-mmm">28 JAN</span><span class="paren">)</span>
+  </p>
+  <div class="info-wrap">
+    <p class="summary"><a href="https://www.w3.org/blog/talks/event/web-and-broadcast-the-birth-of-exciting-technologies/" rel="bookmark">Web and broadcast: The birth of exciting technologies</a></p>
+    <p class="source">
+                                                          by Shadi Abou-Zahra    </p>
+          <p class="eventtitle">
+            	 <a href="https://jornades.uab.cat/media4all9/">Media for All 9</a>
+	 	</p>
+            <p class="location">
+	Barcelona, Spain	    </p>
+      </div>
+</li>
+
+
+		
+	</ul>
+</div></div>
+</div>
+<div class="unit size1on2 lastUnit">
+<div id="w3c_home_upcoming_events" class="w3c_upcoming_events"><h2 class="category"><a title="More Events&#x2026;" href="/participate/eventscal.html">Events <img src="/2008/site/images/header-link" alt="Header link" width="13" height="13" class="header-link" /></a></h2>
+  <ul class="vevent_list">
+    <li class="vevent">
+      <div class="date">
+<span class="dtstart"><span class="year">2021</span><span class="mm-dd">-03-17</span></span>
+<span class="paren">(</span><span class="dd-mmm">17 MAR</span><span class="paren">)</span>
+<span class="date-separator"> &#x2013; </span>
+<span class="dtend"><span class="year">2021</span><span class="mm-dd">-03-18</span></span>
+<span class="paren">(</span><span class="dd-mmm">18 MAR</span><span class="paren">)</span>
+</div>
+      <div class="info-wrap">
+      <p class="summary">
+              <a href="https://www.iottechexpo.com/global/" class="uri url">IoT Tech Expo 2021</a>
+      </p>
+          <p class="location">London, England</p>
+         
+      </div>
+    </li>
+    <li class="vevent">
+      <div class="date">
+<span class="dtstart"><span class="year">2021</span><span class="mm-dd">-04-15</span></span>
+<span class="paren">(</span><span class="dd-mmm">15 APR</span><span class="paren">)</span>
+<span class="date-separator"> &#x2013; </span>
+<span class="dtend"><span class="year">2021</span><span class="mm-dd">-05-15</span></span>
+<span class="paren">(</span><span class="dd-mmm">15 MAY</span><span class="paren">)</span>
+</div>
+      <div class="info-wrap">
+      <p class="summary">
+              <a href="https://www.w3.org/Graphics/Color/Workshop/overview.html" class="uri url">W3C Workshop on Wide Color Gamut and High Dynamic Range for the Web</a>
+      </p>
+          <p class="location">Virtual Event</p>
+         
+      </div>
+    </li>
+    <li class="vevent">
+      <div class="date">
+<span class="dtstart"><span class="year">2021</span><span class="mm-dd">-04-26</span></span>
+<span class="paren">(</span><span class="dd-mmm">26 APR</span><span class="paren">)</span>
+<span class="date-separator"> &#x2013; </span>
+<span class="dtend"><span class="year">2021</span><span class="mm-dd">-04-27</span></span>
+<span class="paren">(</span><span class="dd-mmm">27 APR</span><span class="paren">)</span>
+</div>
+      <div class="info-wrap">
+      <p class="summary">
+              <a href="https://lists.w3.org/Archives/Member/w3c-ac-members/2020OctDec/0032.html" class="uri url">AC Meeting</a>
+      </p>
+          <p class="location">virtual event</p>
+         
+      </div>
+    </li>
+  </ul></div>
+</div>
+</div>
+</div>
+<!-- end events talks --></div>
+<!-- end main content --></div>
+<div class="unit size1on3 lastUnit">
+<h2 class="category"><a href="/Consortium/">About W3C <img src="/2008/site/images/header-link.gif" alt="Header link" width="13" height="13" class="header-link" /></a></h2>
+<p class="about">The World Wide Web Consortium (W3C) is an <a href="/Consortium/facts">international community</a> that develops open
+<a href="/TR/">standards</a> to ensure the long-term growth of the
+Web.</p>
+<h2 class="category"><a href="support/">Donations <img src="/2008/site/images/header-link.gif" alt="Header link" width="13" height="13" class="header-link" /></a></h2>
+<p class="about">Become a <a href="support/">Friend of W3C</a>:
+support the <a href="Consortium/mission">W3C mission</a> and free
+<a href="/developers/">developer tools</a>.</p>
+<div id="w3c_home_recent_blogs"><h2 class="category">
+      <a title="More Blog Entries&#x2026;" href="/blog/">W3C Blog <img src="/2008/site/images/header-link" alt="Header link" width="13" height="13" class="header-link" />
+      </a>
+   </h2><ul class="hentry_list">
+      <li class="hentry">
+         <p class="entry-title">
+            <a href="https://www.w3.org/blog/2021/01/grant-for-the-web/" class="uri url" rel="bookmark">Grant for the Web</a>
+         </p>
+         <p class="date">
+            <abbr title="2021-01-07" class="published">7 January 2021</abbr> by <span class="author vcard">Amy van der Hiel</span>
+         </p>
+      </li>
+      <li class="hentry">
+         <p class="entry-title">
+            <a href="https://www.w3.org/blog/2020/12/w3c-in-2020/" class="uri url" rel="bookmark">W3C in 2020</a>
+         </p>
+         <p class="date">
+            <abbr title="2020-12-17" class="published">17 December 2020</abbr> by <span class="author vcard">
+               <a class="fn url" href="https://koalie.blog/">Coralie Mercier</a>
+            </span>
+         </p>
+      </li>
+      <li class="hentry">
+         <p class="entry-title">
+            <a href="https://www.w3.org/blog/2020/12/one-million-enrollments-in-w3cx/" class="uri url" rel="bookmark">One Million Enrollments in W3Cx</a>
+         </p>
+         <p class="date">
+            <abbr title="2020-12-15" class="published">15 December 2020</abbr> by <span class="author vcard">
+               <a class="fn url" href="http://www.w3.org/People/mcf/">Marie-Claire Forgue</a>
+            </span>
+         </p>
+      </li>
+   </ul></div>
+<div id="w3c_home_new_jobs">
+<h2 class="category"><a href="/Consortium/Recruitment/">W3C is
+hiring <img src="/2008/site/images/header-link.gif" alt="Header link" width="13" height="13" class="header-link" /></a></h2>
+<ul class="show_items">
+<li>A <a href="/Consortium/Recruitment/#2020-priv-sec-exec">Privacy/Security
+Technology Executive Architect</a></li>
+</ul>
+</div>
+<div class="hpmt" id="w3c_home_member_testimonials">
+<h2 class="category"><a title="Read all Member testimonials" href="/Consortium/Member/Testimonial/">W3C Member Testimonial <img src="/2008/site/images/header-link" alt="Header link" width="13" height="13" class="header-link" /></a></h2>
+<div id="w3c_home_member_testimonials_choice"><p class="tPadding0">
+         <a rel="nofollow" href="http://www.samsung.com" class="no-border">
+            <img class="media" width="120" height="42" alt="Samsung Electronics Co., Ltd. logo" src="/Consortium/Member/Testimonial/Logo/1128" />
+         </a>
+      </p><h3>
+         <a rel="nofollow" href="http://www.samsung.com">Samsung Electronics Co., Ltd.</a>
+      </h3><p>Samsung Electronics Co. Ltd. is a global leader in semiconductor, telecommunication, digital media, and digital convergence technology. Samsung Electronics supports W3C recommendations in our products and continues to the explosion of Web technology in our business. Contact Samsung Electronics Co. Ltd.
+</p></div>
+</div>
+<div id="w3c_home_video">
+<h2 class="category"><a href="https://www.w3.org/WAI/videos/standards-and-benefits/">Web
+Accessibility and W3C standards (Video) <img src="/2008/site/images/header-link.gif" alt="Header link" width="13" height="13" class="header-link" /></a></h2>
+<p style="text-align: center"><a href="https://www.w3.org/WAI/videos/standards-and-benefits/"><img src="https://www.w3.org/2020/12/still.jpg" width="233" alt="Thumbnail of Web Accessibility and W3C Standards Video" /></a></p>
+<p>Watch our video on Web Accessibility and W3C standards!</p>
+</div>
+</div>
+</div>
+<!-- end main col --></div>
+</div>
+</div>
+<!-- Generated from data/footer.php, Array{footer-block.tpl} -->
+<div id="w3c_footer">
+<div id="w3c_footer-inner">
+<h2 class="offscreen">Footer Navigation</h2>
+<div class="w3c_footer-nav">
+<h3>Navigation</h3>
+<ul class="footer_top_nav">
+<li><a href="/">Home</a></li>
+<li><a href="/standards/">Standards</a></li>
+<li><a href="/participate/">Participate</a></li>
+<li><a href="/Consortium/membership">Membership</a></li>
+<li class="last-item"><a href="/Consortium/">About W3C</a></li>
+</ul>
+</div>
+<div class="w3c_footer-nav">
+<h3>Contact W3C</h3>
+<ul class="footer_bottom_nav">
+<li><a href="/Consortium/contact">Contact</a></li>
+<li><a accesskey="0" href="/Help/">Help and FAQ</a></li>
+<li><a href="/Consortium/sponsor/">Sponsor / Donate</a></li>
+<li><a href="/Consortium/siteindex">Site Map</a></li>
+<li>
+<address id="w3c_signature"><a href="https://lists.w3.org/Archives/Public/site-comments/">Feedback</a></address>
+</li>
+</ul>
+</div>
+<div class="w3c_footer-nav">
+<h3>W3C Updates</h3>
+<ul class="footer_follow_nav">
+<li><a href="https://twitter.com/W3C" title="Follow W3C on Twitter"><img src="/2008/site/images/Twitter_bird_logo_2012.svg" alt="Twitter" class="social-icon" height="40" /></a></li>
+</ul>
+</div>
+<!-- #footer address / page signature -->
+<p class="copyright">Copyright &#xA9; 2020 W3C <sup>&#xAE;</sup> (<a href="https://www.csail.mit.edu/"><abbr title="Massachusetts Institute of Technology">MIT</abbr></a>, <a href="https://www.ercim.eu/"><abbr title="European Research Consortium for Informatics and Mathematics">ERCIM</abbr></a>,
+<a href="https://www.keio.ac.jp/">Keio</a>, <a href="https://ev.buaa.edu.cn/">Beihang</a>) <a href="/Consortium/Legal/ipr-notice">Usage policies apply</a>.</p>
+</div>
+</div>
+<!-- /end #footer -->
+<!-- Generated from data/scripts.php, ../../smarty/{scripts.tpl} -->
+<div id="w3c_scripts">
+<script type="text/javascript" src="/2008/site/js/main">
+</script></div>
+</body>
+</html>

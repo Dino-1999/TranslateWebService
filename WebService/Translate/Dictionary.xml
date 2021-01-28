@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<dictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema"
+            xsi:noNameSpaceSchemaLocation="Dictionary_schema.xsd">
+    <word>
+        <english-word>mother</english-word>
+        <german-word>mutter</german-word>
+    </word>
+    <word>
+        <english-word>father</english-word>
+        <german-word>vatter</german-word>
+    </word>
+    <word>
+        <english-word>brother</english-word>
+        <german-word>bruder</german-word>
+    </word>
+    <word>
+        <english-word>sister</english-word>
+        <german-word>schwester</german-word>
+    </word>
+    <word>
+        <english-word>grandmother</english-word>
+        <german-word>oma</german-word>
+    </word>
+    <word>
+        <english-word>grandfather</english-word>
+        <german-word>opa</german-word>
+    </word>
+    
+</dictionary>

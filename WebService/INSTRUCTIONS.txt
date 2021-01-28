@@ -1,0 +1,6 @@
+Kao rijeèi za prijevod (prvi parametar) koristiti jednu od Slijedeæih:
+Mother,Father,Brother,Sister,Grandmother,Grandfather ili iste rijeèi na Njemaèkom jeziku.
+Kao drugi parametar odabrati jezik na kome je napisana rijeè(prvi parametar)
+Treæi i posljednji parametar jeste jezik na koji se data rijeè prevodi
+Ukoliko servis ne funkcioniše potrebno je u folder:"\glassfish4\glassfish\config" dodati XML fajl koji se nalazi
+u jednom od foldera servisa.
